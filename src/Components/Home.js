@@ -77,7 +77,7 @@ function Home() {
 
         <CardContent>
           <Typography variant="h5" component="div">
-            Campus Images
+            Campus 
           </Typography>
           <div className="image-container">
             <CardMedia
